@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aarib-sami.vercel.app/](https://aarib-sami.vercel.app/)
 
-- 📫 How to reach me **asami01@uoguelph.ca**
+- 📫 How to reach me: **asami01@uoguelph.ca**
 
 
 
