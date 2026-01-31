@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarib Sami</h1>
-<h3 align="center">A full stack developer A Fullstack Developer pursuing a Bachelors in Computer Science</h3>
+<h3 align="center">A Fullstack Developer pursuing a Bachelors in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarib-sami&label=Profile%20views&color=0e75b6&style=flat" alt="aarib-sami" /> </p>
 
