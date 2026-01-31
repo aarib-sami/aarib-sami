@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Aarib Sami</h1>
-<h3 align="center">A Fullstack Developer pursuing a B.S in Computer Science with a Minor in Project Management</h3>
+<h3 align="center">A Fullstack Developer pursuing a Bachelors in Computer Sciencet</h3>
 
 - 👨‍💻 All of my projects are available at [https://aarib-sami.vercel.app/](https://aarib-sami.vercel.app/)
 
-- 📫 How to reach me: **asami01@uoguelph.ca**
+- 📫 How to reach me: **aaribsamii@gmail.com**
 
 
 
